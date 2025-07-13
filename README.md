@@ -19,7 +19,7 @@ A Python-based tool for summarizing text or web articles using Google's Gemini-2
    ```
 2. **Set Up Gemini API**:
    - Obtain an API key from [Google’s API portal](https://makersuite.google.com/app/apikey).
-   - Replace `"YOUR_API_KEY_HERE"` in `src/text_summarizer.py` with your key.
+   - Replace `"YOUR_API_KEY_HERE"` in `src/.env` with your key.
 3. **Create Log Directory**:
    ```bash
    mkdir logs
