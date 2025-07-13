@@ -1,0 +1,2 @@
+Input Type,Text Input,URL Input,Summary Length,Summary,timestamp
+Text,Regularization techniques in machine learning are methods used to prevent overfitting by penalizing complex models. These techniques add a regularization term to the loss function to discourage overly complex or high-capacity models that fit the training data too closely.,,long,,2025-07-11 10:51:52.639185

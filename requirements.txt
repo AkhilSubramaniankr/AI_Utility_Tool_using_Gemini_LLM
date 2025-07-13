@@ -1,0 +1,8 @@
+#python also python>=3.8
+
+gradio
+google-generativeai
+requests
+beautifulsoup4
+python-dotenv
+validators
